@@ -1,7 +1,6 @@
 ### Hi there, I'm Pedro Duarte 👋
 ## I'm an arquitect and now a programmer!
-![Sticker Original Borda Branca](https://github.com/SignedByPedro/SignedByPedro/assets/146478531/48878bbf-f42a-4973-a9fa-3b56361d2b46)
-
+!Sticker Original Borda Branca](https://github.com/SignedByPedro/SignedByPedro/assets/146478531/48878bbf-f42a-4973-a9fa-3b56361d2b46 | width=100)
 <!--
 **SignedByPedro/SignedByPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
