@@ -23,8 +23,8 @@ Feel free to explore the repositories for more details!
 
 ## 🌐 Find Me Online
 
-- [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/pedro-duarte-99bba5203/))
-- [Instagram]([link-to-instagram](https://www.instagram.com/pedro_bduarte/))
+- <a href="https://www.linkedin.com/in/pedro-duarte-99bba5203/">Linkedin</a>
+- <a href="https://www.instagram.com/pedro_bduarte/">Instagram</a>
 
 ### 📙 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SignedByPedro&layout=compact&theme=radical)
